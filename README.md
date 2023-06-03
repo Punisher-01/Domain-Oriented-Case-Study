@@ -1,1 +1,1 @@
-# Telecom-churn-case-study
+# Domain-Oriented Case Study
